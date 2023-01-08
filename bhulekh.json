@@ -1,0 +1,140 @@
+{
+  "success": 1,
+  "data": [
+    {
+      "id": 3,
+      "state_name": "👉 आन्ध्र प्रदेश - Andhra Pradesh",
+      "link_url": "http://meebhoomi.ap.gov.in",
+      "ads": 0
+    },
+    {
+      "id": 4,
+      "state_name": "👉 झारखण्ड - Jharkhand",
+      "link_url": "https://jharbhoomi.jharkhand.gov.in/MISKhatianRegister2/DistrictMap",
+      "ads": 0
+    },
+    {
+      "id": 5,
+      "state_name": "👉 मणिपुर - Manipur",
+      "link_url": "https://louchapathap.nic.in/MIS/frmROR45",
+      "ads": 0
+    },
+    {
+      "id": 6,
+      "state_name": "👉 असम - Assam",
+      "link_url": "https://revenueassam.nic.in/dhar/index.php/Welcome/SelectLOC",
+      "ads": 0
+    },
+    {
+      "id": 7,
+      "state_name": "👉 कर्नाटक - Karnatak",
+      "link_url": "https://landrecords.karnataka.gov.in/Service64",
+      "ads": 0
+    },
+    {
+      "id": 8,
+      "state_name": "👉 गुजरात - Gujrat",
+      "link_url": "https://anyror.gujarat.gov.in/LandRecordRural.aspx",
+      "ads": 0
+    },
+    {
+      "id": 10,
+      "state_name": "👉 महाराष्ट्र - Maharashtra",
+      "link_url": "https://bhulekh.mahabhumi.gov.in",
+      "ads": 0
+    },
+    {
+      "id": 11,
+      "state_name": "👉 राजस्थान - Rajsthan",
+      "link_url": "https://apnakhata.raj.nic.in/Owner_wise/DistrictMap.aspx",
+      "ads": 0
+    },
+    {
+      "id": 12,
+      "state_name": "👉 तमिलनाडु - TamilNadu",
+      "link_url": "http://eservices.tn.gov.in/eservicesnew/land/chitta_ta.html?lan=ta",
+      "ads": 0
+    },
+    {
+      "id": 14,
+      "state_name": "👉 उत्तर प्रदेश - Uttar Pradesh",
+      "link_url": "http://upbhulekh.gov.in/public/public_ror/Public_ROR.jsp",
+      "ads": 0
+    },
+    {
+      "id": 15,
+      "state_name": "👉 बिहार - Bihar",
+      "link_url": "http://land.bihar.gov.in/Ror/ViewRor.aspx?SId=cgiqnpzemzcz1c3jhe3qvlaz&DistCode=27&SubDivCode=3&CircleCode=12",
+      "ads": 0
+    },
+    {
+      "id": 16,
+      "state_name": "👉 हरियाणा - Haryana",
+      "link_url": "https://jamabandi.nic.in/land%20records/NakalRecord",
+      "ads": 0
+    },
+    {
+      "id": 17,
+      "state_name": "👉 मध्य प्रदेश - Madhya Pradesh",
+      "link_url": "https://mpbhulekh.gov.in/Login.do",
+      "ads": 0
+    },
+    {
+      "id": 18,
+      "state_name": "👉 उड़ीसा - Odisha (Orissa)",
+      "link_url": "http://bhulekh.ori.nic.in",
+      "ads": 0
+    },
+    {
+      "id": 19,
+      "state_name": "👉 छत्तीसगढ़ - Chhattisgarh",
+      "link_url": "http://bhuiyan.cg.nic.in/User/selection_report_for_user.aspx",
+      "ads": 0
+    },
+    {
+      "id": 21,
+      "state_name": "👉 उत्तराखण्ड - Uttrakhand",
+      "link_url": "http://bhulekh.uk.gov.in/Bhulekh/public/public_ror/Public_ROR.jsp",
+      "ads": 0
+    },
+    {
+      "id": 22,
+      "state_name": "👉 गोवा - Goa",
+      "link_url": "https://dslr.goa.gov.in/f114new.aspx",
+      "ads": 0
+    },
+    {
+      "id": 23,
+      "state_name": "👉 अंडमान और निकोबार - Andman & Nicobar",
+      "link_url": "http://db.and.nic.in/ROR/view1/formf.aspx",
+      "ads": 0
+    },
+    {
+      "id": 24,
+      "state_name": "👉 Punjab - पंजाब",
+      "link_url": "http://jamabandi.punjab.gov.in",
+      "ads": 0
+    }
+  ],
+  "aboutads": [
+    {
+      "ADSON": true,
+      "isgoogle": false,
+      "facebookbanner": "1214986899232745_1214988395899262fffffffffffffffff",
+      "facebookinterstitial": "1214986899232745_1216431689088266",
+      "facebooknative": "1214986899232745_1216431789088256fffffffffffffffff",
+      "disclaimer": "-  This app is made by Harshil Vekariya. \n- We only provide information to readers and visitors that are available in government public domians.\n- We are not any official partner of the Government or a linked with any way with government. We just show their website in our application as       webview format.\n- We do not own any website available in app.\n- This application is very usefull for indian people to find the best digital servie in their state or city.\n- We do not affiliated with any government entity, services or person.\n-   we don't own any copyrights of images or details used in this app. all the credits goes to their creator. our app doesn't collect any information from users.\n-   we are just providing information that is already available on the internet publicly.\n-   if you have any problem then feel free to contact us at wefoyyou29@gmail.com. \nThank you.",
+      "appnextid": "769d3931-f2ca-46cb-bd20-02687e9ed672",
+      "maxbanner": "af6d541d6a2ec8ba",
+      "nativeclick": 3,
+      "maxinterstitial": "e83684e7968b4428",
+      "maxnative": "6fe2a083301f6afb",
+      "maxrewarded": "10150143a5a9df9a",
+      "interstitialfrequancy": 3,
+      "nativefrequancy": 2,
+      "googlebanner": "ca-app-pub-6760366163890275/9948964404",
+      "googleinterstitial": "ca-app-pub-6760366163890275/8891281023",
+      "googlenative": "ca-app-pub-6760366163890275/8312696522",
+      "description1": "  अपने आप को साबित करने और दूसरों पर अपनी निर्भरता कम करने की दिशा में भारत ने बड़ी कामयाबी पा ली है. इस ऐतिहासिक उपलब्धि को दुनिया ने भी सिर झुका कर सलामी दी है. भारत ने अपनी खुद की भारतीय क्षेत्रीय नौवहन उपग्रह प्रणाली (आईआरएनएसएस) को इसी नवंबर में हासिल कर लिया है. भारत अब अमेरिका, रूस, चीन के बाद यह प्रणाली खुद विकसित करने वाला दुनिया का चौथा देश बन गया है. इसे भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने बनाया है. यह पूर्णतया भारत सरकार के अधीन रहने वाली क्षेत्रीय स्वायत्त उपग्रह नौवहन प्रणाली है. प्रधानमंत्री नरेंद्र मोदी ने इसका नाम भारत के मछुवारों को समर्पित करते हुए 'नाविक' रखा है.\\n\\n\n\nअत्याधुनिक नेविगेशन प्रणालियों की सूची में शामिल होने वाला भारत अब अमेरिकी, रूस और चीनी दबदबे से बाहर निकल आया है. इस प्रणाली को अंतरराष्ट्रीय समुद्री संगठन (आईएमओ) की समुद्री सुरक्षा समिति ने अपने 102वें सत्र के दौरान (11 नवंबर को) ‘भारतीय क्षेत्रीय नेविगेशन उपग्रह प्रणाली’ (आईआरएनएसएस) को ‘विश्वव्यापी रेडियो नेविगेशन प्रणाली’ के एक घटक के रूप में मान्यता दे दी है. आईएमओ, संयुक्त राष्ट्र (यूएन) की एक विशेष संस्था है, जो कि मुख्यतः अंतरराष्ट्रीय शिपिंग की सुरक्षा में सुधार करने एवं जहाजों द्वारा होने वाले प्रदूषण को रोकने हेतु उत्तरदायी ह
+  ]
+}
