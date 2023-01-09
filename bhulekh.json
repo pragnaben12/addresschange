@@ -5,115 +5,114 @@
       "id": 3,
       "state_name": "👉 आन्ध्र प्रदेश - Andhra Pradesh",
       "link_url": "http://meebhoomi.ap.gov.in",
-      "ads": 0
+      "image_url": "https://pragnaben12.github.io/addresschange/AP_map.jpg"
     },
     {
       "id": 4,
       "state_name": "👉 झारखण्ड - Jharkhand",
       "link_url": "https://jharbhoomi.jharkhand.gov.in/MISKhatianRegister2/DistrictMap",
-      "ads": 0
-    },
+"image_url": "https://pragnaben12.github.io/addresschange/jarkhand.svg"    },
     {
       "id": 5,
       "state_name": "👉 मणिपुर - Manipur",
       "link_url": "https://louchapathap.nic.in/MIS/frmROR45",
-      "ads": 0
-    },
+"image_url": "https://pragnaben12.github.io/addresschange/manipur.png"
+},
     {
       "id": 6,
       "state_name": "👉 असम - Assam",
       "link_url": "https://revenueassam.nic.in/dhar/index.php/Welcome/SelectLOC",
-      "ads": 0
-    },
+"image_url": "https://pragnaben12.github.io/addresschange/assam.png"
+},
     {
       "id": 7,
       "state_name": "👉 कर्नाटक - Karnatak",
       "link_url": "https://landrecords.karnataka.gov.in/Service64",
-      "ads": 0
-    },
+"image_url": "https://pragnaben12.github.io/addresschange/karnataka.png"
+},
     {
       "id": 8,
       "state_name": "👉 गुजरात - Gujrat",
       "link_url": "https://anyror.gujarat.gov.in/LandRecordRural.aspx",
-      "ads": 0
+"image_url": "https://pragnaben12.github.io/addresschange/gujarat.jpg"
     },
     {
       "id": 10,
       "state_name": "👉 महाराष्ट्र - Maharashtra",
       "link_url": "https://bhulekh.mahabhumi.gov.in",
-      "ads": 0
+"image_url": "https://pragnaben12.github.io/addresschange/Maharashtra.jpg"
     },
     {
       "id": 11,
       "state_name": "👉 राजस्थान - Rajsthan",
       "link_url": "https://apnakhata.raj.nic.in/Owner_wise/DistrictMap.aspx",
-      "ads": 0
+"image_url": "https://pragnaben12.github.io/addresschange/rajsthan.png"
     },
     {
       "id": 12,
       "state_name": "👉 तमिलनाडु - TamilNadu",
       "link_url": "http://eservices.tn.gov.in/eservicesnew/land/chitta_ta.html?lan=ta",
-      "ads": 0
+"image_url": "https://pragnaben12.github.io/addresschange/Tamilnadu%20Map.png"
     },
     {
       "id": 14,
       "state_name": "👉 उत्तर प्रदेश - Uttar Pradesh",
       "link_url": "http://upbhulekh.gov.in/public/public_ror/Public_ROR.jsp",
-      "ads": 0
+"image_url": "https://pragnaben12.github.io/addresschange/Uttar%20Pradesh.jpg"
     },
     {
       "id": 15,
       "state_name": "👉 बिहार - Bihar",
       "link_url": "http://land.bihar.gov.in/Ror/ViewRor.aspx?SId=cgiqnpzemzcz1c3jhe3qvlaz&DistCode=27&SubDivCode=3&CircleCode=12",
-      "ads": 0
+"image_url": "https://pragnaben12.github.io/addresschange/bihar.png"
     },
     {
       "id": 16,
       "state_name": "👉 हरियाणा - Haryana",
       "link_url": "https://jamabandi.nic.in/land%20records/NakalRecord",
-      "ads": 0
+"image_url": "https://pragnaben12.github.io/addresschange/haryana.png"
     },
     {
       "id": 17,
       "state_name": "👉 मध्य प्रदेश - Madhya Pradesh",
       "link_url": "https://mpbhulekh.gov.in/Login.do",
-      "ads": 0
+"image_url": "https://pragnaben12.github.io/addresschange/mp.png"
     },
     {
       "id": 18,
       "state_name": "👉 उड़ीसा - Odisha (Orissa)",
       "link_url": "http://bhulekh.ori.nic.in",
-      "ads": 0
+"image_url": "https://pragnaben12.github.io/addresschange/odisha.png"
     },
     {
       "id": 19,
       "state_name": "👉 छत्तीसगढ़ - Chhattisgarh",
       "link_url": "http://bhuiyan.cg.nic.in/User/selection_report_for_user.aspx",
-      "ads": 0
+"image_url": "https://pragnaben12.github.io/addresschange/Chhattisgarh.png"
     },
     {
       "id": 21,
       "state_name": "👉 उत्तराखण्ड - Uttrakhand",
       "link_url": "http://bhulekh.uk.gov.in/Bhulekh/public/public_ror/Public_ROR.jsp",
-      "ads": 0
+"image_url": "https://pragnaben12.github.io/addresschange/Uttrakhand.png"
     },
     {
       "id": 22,
       "state_name": "👉 गोवा - Goa",
       "link_url": "https://dslr.goa.gov.in/f114new.aspx",
-      "ads": 0
+"image_url": "https://pragnaben12.github.io/addresschange/Goa.png"
     },
     {
       "id": 23,
       "state_name": "👉 अंडमान और निकोबार - Andman & Nicobar",
       "link_url": "http://db.and.nic.in/ROR/view1/formf.aspx",
-      "ads": 0
+"image_url": "https://pragnaben12.github.io/addresschange/Andman%20%26%20Nicobar.png"
     },
     {
       "id": 24,
       "state_name": "👉 Punjab - पंजाब",
       "link_url": "http://jamabandi.punjab.gov.in",
-      "ads": 0
+"image_url": "https://pragnaben12.github.io/addresschange/पंजाब.png"
     }
   ],
   "aboutads": [
